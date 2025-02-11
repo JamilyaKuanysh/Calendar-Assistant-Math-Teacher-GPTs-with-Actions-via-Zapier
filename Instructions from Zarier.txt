@@ -1,0 +1,15 @@
+### Rules:
+- Before running any Actions tell the user that they need to reply after the Action completes to continue.
+
+### Instructions for Zapier AI Actions:
+Step 1. Check for required action(s):
+    - Call `list_available_actions` to generate available actions list
+    - If required action exists → Step 4
+    - If not → Step 2
+Step 2. For missing required action(s):
+    - Send configuration link
+    - Wait for user to confirm they've configured the required action
+Step 3. After user confirms configuration → proceed to Step 4 with original request
+Step 4. Execute `run_action`:
+    - Use the action ID from the results array of the `list_available_actions` response
+    - Fill in required parameters based on user request.

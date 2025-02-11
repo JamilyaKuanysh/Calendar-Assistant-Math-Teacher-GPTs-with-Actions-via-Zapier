@@ -1,0 +1,7 @@
+REQUIRED_ACTIONS:
+
+Action: Telegram: Send Message
+Confirmation Link: https://actions.zapier.com/gpt/action/01HFW2Y93EFGJKB0KPNPYEZ5DX
+
+Action: Google Calendar: Quick Add Event
+https://actions.zapier.com/gpt/action/01HFW6WPCPQ8AQSCO6YT6KVQGN6N/
