@@ -76,6 +76,6 @@
 
 <img src="https://github.com/JamilyaKuanysh/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/4d1537e250256f028a5e4f6bc9aeb0c56dfa8117/screenshots/Zapier1.png" alt="Иллюстрация к проекту" style="width:50%;"/>
 
-<img src="[https://github.com/ZerocoderForstudents/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/main/screenshots/Zapier2.png](https://github.com/JamilyaKuanysh/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/4d1537e250256f028a5e4f6bc9aeb0c56dfa8117/screenshots/Zapier2.png)" alt="Иллюстрация к проекту" style="width:50%;"/>
+<img src="https://github.com/JamilyaKuanysh/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/4d1537e250256f028a5e4f6bc9aeb0c56dfa8117/screenshots/Zapier2.png" alt="Иллюстрация к проекту" style="width:50%;"/>
 
 <img src="https://github.com/JamilyaKuanysh/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/4d1537e250256f028a5e4f6bc9aeb0c56dfa8117/screenshots/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.png" alt="Иллюстрация к проекту" style="width:50%;"/>
