@@ -69,6 +69,8 @@
 
 ---
 ## Скриншоты проекта:
+<img src="https://github.com/JamilyaKuanysh/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/23342186a69f5fd763eb8c57b779074360420ce5/screenshots/Open%20AI%203.png" alt="Иллюстрация к проекту" style="width:50%;"/>
+
 <img src="https://github.com/ZerocoderForstudents/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/main/screenshots/Open%20AI%203.png" alt="Иллюстрация к проекту" style="width:50%;"/>
 <img src="https://github.com/ZerocoderForstudents/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/main/screenshots/OpenAI.png" alt="Иллюстрация к проекту" style="width:50%;"/>
 <img src="https://github.com/ZerocoderForstudents/Calendar-Assistant-Math-Teacher-GPTs-with-Actions-via-Zapier/blob/main/screenshots/Zapier1.png" alt="Иллюстрация к проекту" style="width:50%;"/>
